@@ -17,3 +17,11 @@ This Billing System is in Python. Talking about the features of this system, it 
 
 Also, the design of this system is pretty simple so that the user won’t get any difficulties while working on it.
 
+# How To Run The Project?
+Step1: Extract/Unzip the file
+
+Step2: Go inside the project folder and double click the main.py file and you are ready to go.
+
+
+![biiling](https://user-images.githubusercontent.com/72083319/125159611-1ba3dd80-e196-11eb-9458-a06f94f08453.PNG)
+Thank You ):
