@@ -5,7 +5,7 @@ The Billing System In Python is a simple project using python Tkinter which disp
 The project file contains a python script (Billing.py) inside the repository.
 
 # About Project
-This Billing System is in Python. Talking about the features of this system, it contains only the customer details section,tax section and printed bill area.
+This Billing System is in Python. Talking about the features of this system, it contains the customer details section,tax section and printed bill area.
 
 # Main Features:
   1) The user enters customer name and phone number from the menu.
